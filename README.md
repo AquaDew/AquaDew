@@ -1,9 +1,9 @@
 # Github: AquaDew
-## Bilibili: AquaDew
-## Email: 3237751325@qq.com
-> Projects
-> * ShimmerIsland
-> * -
+### Bilibili: AquaDew
+### Email: 3237751325@qq.com
+> Project - ShimmerIsland
+> * FileSystem
+> * Others
 <!--
 ### Hi there 👋
 
