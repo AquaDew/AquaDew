@@ -1,7 +1,6 @@
 # Github: [AquaDew](https://github.com/Aquadew)
 > ## Contact
-> * Bilibili: AquaDew
-> * Email: 3237751325@qq.com
+> * Email: annularwind@outlook.com
 
 > ## Project - ShimmerIsland
 > * FileSystem
